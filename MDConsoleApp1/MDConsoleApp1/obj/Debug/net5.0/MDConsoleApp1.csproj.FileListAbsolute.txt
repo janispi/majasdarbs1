@@ -1,0 +1,16 @@
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\Repos\majasdarbs1\MDConsoleApp1\MDConsoleApp1\bin\Debug\net5.0\MDConsoleApp1.exe
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\Repos\majasdarbs1\MDConsoleApp1\MDConsoleApp1\bin\Debug\net5.0\MDConsoleApp1.deps.json
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\Repos\majasdarbs1\MDConsoleApp1\MDConsoleApp1\bin\Debug\net5.0\MDConsoleApp1.runtimeconfig.json
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\Repos\majasdarbs1\MDConsoleApp1\MDConsoleApp1\bin\Debug\net5.0\MDConsoleApp1.runtimeconfig.dev.json
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\Repos\majasdarbs1\MDConsoleApp1\MDConsoleApp1\bin\Debug\net5.0\MDConsoleApp1.dll
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\Repos\majasdarbs1\MDConsoleApp1\MDConsoleApp1\bin\Debug\net5.0\ref\MDConsoleApp1.dll
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\Repos\majasdarbs1\MDConsoleApp1\MDConsoleApp1\bin\Debug\net5.0\MDConsoleApp1.pdb
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\Repos\majasdarbs1\MDConsoleApp1\MDConsoleApp1\obj\Debug\net5.0\MDConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\Repos\majasdarbs1\MDConsoleApp1\MDConsoleApp1\obj\Debug\net5.0\MDConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\Repos\majasdarbs1\MDConsoleApp1\MDConsoleApp1\obj\Debug\net5.0\MDConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\Repos\majasdarbs1\MDConsoleApp1\MDConsoleApp1\obj\Debug\net5.0\MDConsoleApp1.AssemblyInfo.cs
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\Repos\majasdarbs1\MDConsoleApp1\MDConsoleApp1\obj\Debug\net5.0\MDConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\Repos\majasdarbs1\MDConsoleApp1\MDConsoleApp1\obj\Debug\net5.0\MDConsoleApp1.dll
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\Repos\majasdarbs1\MDConsoleApp1\MDConsoleApp1\obj\Debug\net5.0\ref\MDConsoleApp1.dll
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\Repos\majasdarbs1\MDConsoleApp1\MDConsoleApp1\obj\Debug\net5.0\MDConsoleApp1.pdb
+C:\Users\janispi\OneDrive - lau.lv\Documents\C#\Repos\majasdarbs1\MDConsoleApp1\MDConsoleApp1\obj\Debug\net5.0\MDConsoleApp1.genruntimeconfig.cache
